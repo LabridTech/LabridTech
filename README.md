@@ -14,6 +14,7 @@ Our team of experienced developers and designers is proficient in a wide range o
 - Web Development (Frontend and Backend)
 - Mobile App Development (iOS and Android)
 - Software Development
+- Data Scrapping Services
 - UI/UX Design
 - and much more!
 
