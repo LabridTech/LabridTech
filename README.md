@@ -18,7 +18,7 @@ Our team of experienced developers and designers is proficient in a wide range o
 - UI/UX Design
 - and much more!
 
-Explore our [portfolio](https://yourdomain.com/portfolio) to see examples of our previous projects.        --oye idher website ka link dal day
+Explore our [portfolio](https://www.labridtech.com/project) to see examples of our previous projects.        --oye idher website ka link dal day
 
 ## Why Choose Labrid Tech
 
