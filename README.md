@@ -51,7 +51,7 @@ Explore our [portfolio](https://www.labridtech.com/project) to see examples of o
 Ready to get started or have questions? Contact us today:
 
 - **Email:** [contact@labridtech.com](labridtech@gmail.com)
-- **Website:** [www.labridtech.com](https://www.labridtech.com)            --  Uneeb yahan website dal day
+- **Website:** [www.labridtech.com](https://www.labridtech.com)            
 - **Phone:** +92 3233673292
 - **WhatsApp** +92 3349870151
 
