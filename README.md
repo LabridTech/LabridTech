@@ -18,8 +18,7 @@ Our team of experienced developers and designers is proficient in a wide range o
 - UI/UX Design
 - and much more!
 
-Explore our [portfolio](https://www.labridtech.com/project) to see examples of our previous projects.        --oye idher website ka link dal day
-
+Explore our [portfolio](https://www.labridtech.com/project) to see examples of our previous projects.       
 ## Why Choose Labrid Tech
 
 - **Custom Solutions:** We understand that every project is unique. We tailor our services to meet your specific requirements, ensuring a personalized approach to your tech needs.
