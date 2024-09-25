@@ -54,7 +54,7 @@ Ready to get started or have questions? Contact us today:
 - **Phone:** +92 3233673292
 - **WhatsApp** +92 3349870151
 
-Connect with us on [LinkedIn](https://www.linkedin.com/company/LabridTech) | [Twitter](https://twitter.com/labridtech) | [Facebook](https://www.facebook.com/labridtech) for the latest updates and tech insights. -- ye bhi daikh li zara
+Connect with us on [LinkedIn](https://www.linkedin.com/company/LabridTech)| [Facebook](https://www.facebook.com/labridtech) for the latest updates and tech insights. 
 
 Thank you for considering Labrid Tech as your technology partner. We look forward to helping you achieve your tech goals!
 
